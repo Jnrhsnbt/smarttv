@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvch-id="" group-title="",ТНТ4
+https://live-s-206.uma.media/LIVE/LIVE:317849/HLS/live-s/1686064740/ev1d4x4aZ7CFdDRHYnYlug/live/317849_3/chunklist.m3u8
+#EXTINF:-1 tvch-id="" group-title="",ТНТ
+https://live-s-206.uma.media/LIVE/LIVE:317850/HLS/live-s/1686064503/hx8wTGHX_8jmPqiSWqyGAQ/live/317850_3/chunklist.m3u8

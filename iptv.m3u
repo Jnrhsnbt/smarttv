@@ -27,12 +27,10 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1,ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-0
-#EXTINF:-1,ТНТ4
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-0
-#EXTINF:-1,Суббота
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-0
+#EXTINF:-1 ,ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 ,Суббота HD
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1,Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-0

@@ -1,5 +1,52 @@
-#EXTM3U
-#EXTINF:-1 tvch-id="" group-title="",ТНТ4
-https://live-s-206.uma.media/LIVE/LIVE:317849/HLS/live-s/1686064740/ev1d4x4aZ7CFdDRHYnYlug/live/317849_3/chunklist.m3u8
-#EXTINF:-1 tvch-id="" group-title="",ТНТ
-https://live-s-206.uma.media/LIVE/LIVE:317850/HLS/live-s/1686064503/hx8wTGHX_8jmPqiSWqyGAQ/live/317850_3/chunklist.m3u8
+#EXTM3U 
+#EXTINF:-1,Первый канал 
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-0
+#EXTINF:0 ,Россия 1 
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,Матч!
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,ТВ3
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,Disney Channel
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,СТС
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,Суббота
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,Че!
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-0
+#EXTINF:-1,МУЗ ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-0
+#EXTINF:-1 tvg-name="1764" tvg-shift=1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
+#EXTINF:-1 tvg-name="1844" tvg-shift=1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0

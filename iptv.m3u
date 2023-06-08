@@ -3,9 +3,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-0
 
-#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 HD (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-
 #EXTINF:-1 tvg-id="RENTV.ru",РЕН ТВ (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 

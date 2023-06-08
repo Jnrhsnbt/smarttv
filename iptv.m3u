@@ -3,30 +3,11 @@
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-0
 
-#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 HD (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-
 #EXTINF:-1 tvg-id="RENTV.ru",РЕН ТВ (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 
-#EXTINF:-1,НТВ
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-0
-
-#EXTINF:-1,Матч!
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-0
-
-#EXTINF:-1,ТВ3
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-0
-
-#EXTINF:-1,Disney Channel
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-0
-
-#EXTINF:-1 tvg-id="CTC.ru",СТС (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="Основные",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 
 #EXTINF:-1 tvg-id="CTCKids.ru",СТС Kids (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
@@ -34,94 +15,88 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 tvg-id="CTCLove.ru",СТС Love (480p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 
-#EXTINF:-1,ТНТ
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-0
+#EXTINF:-1 group-title="Основные",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 
-#EXTINF:-1,ТНТ4
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-0
+#EXTINF:-1 ,ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 
-#EXTINF:-1,Суббота
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-0
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
+https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 
-#EXTINF:-1,Пятница!
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-0
-
-#EXTINF:-1,Че!
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-0
-
-#EXTINF:-1,МУЗ ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-0
-
-#EXTINF:-1 tvg-name="1764" tvg-shift=1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
+#EXTINF:-1 group-title="Детские",FAN HD
+http://193.33.240.8:8080/fan/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="1844" tvg-shift=1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
 
-#EXTINF:-1 tvg-id="A1.ru",A1 (720p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia 1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 
-#EXTINF:-1 tvg-id="A2.ru",A2 (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia 2
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 
 #EXTINF:-1 tvg-id="AmediaHit.ru",Amedia Hit (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 
-#EXTINF:-1 tvg-id="black.ru",.black Russia (480p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-
-#EXTINF:-1 tvg-id="FoxLifeRussia.ru",Fox Life Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
-
-#EXTINF:-1 tvg-id="FoxRussia.ru",Fox Russia (1080p) [Geo-blocked]
+#EXTINF:-1 ,Fox_HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
-#EXTINF:-1 tvg-id="Multilandia.ru",Мультиландия (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+##EXTINF:-1 ,Fox_Life_HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 
-#EXTINF:-1 tvg-id="red.ru",.red Russia (480p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="scifi.ru",.sci-fi Russia (480p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2824.png",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VIPComedy.ru",ViP Comedy Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV1000ActionEast.ru",TV1000 Action Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV1000East.ru",TV1000 Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3302.png",TV 1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV1000RusskoeKino.ru",TV1000 Русское кино (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD (www.iptvm3u.ru)
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VIPMegahit.ru",VIP Megahit Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VIPPremiere.ru",VIP Premiere Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 group-title="KINO+",Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="VIPSerial.ru",VIP Serial Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 group-title="KINO+",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViasatExplore.se",Viasat Explore Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 group-title="KINO+",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViasatHistory.se",Viasat History Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 group-title="KINO+",BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
 
-#EXTINF:-1 tvg-id="ViasatNature.se",Viasat Nature Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 group-title="KINO+",BACKUSTV Страшное HD r
+http://stream.backustv.ru/live/btv2/index.m3u8
 
+#EXTINF:-1 group-title="KINO+",LAVA HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 
+#EXTINF:-1 group-title="Фильмовые",Киномикс HD
+http://80.251.49.103:8002/play/136
+
+#EXTINF:-1 group-title="Фильмовые",Киносемья
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU",Первый Музыкальный RU HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1  tvg-logo="https://online-red.com/images/tv/one-hd.png",Первый Музыкальный BY HD
+http://rtmp.one.by:1300
 

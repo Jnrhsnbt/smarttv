@@ -6,7 +6,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-
 #EXTINF:-1 tvg-id="RENTV.ru",РЕН ТВ (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 
-#EXTINF:-1 group-title="Основные",СТС HD
+#EXTINF:-1,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 
 #EXTINF:-1 tvg-id="CTCKids.ru",СТС Kids (1080p) [Geo-blocked]
@@ -15,7 +15,7 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 tvg-id="CTCLove.ru",СТС Love (480p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 
-#EXTINF:-1 group-title="Основные",ТНТ HD
+#EXTINF:-1,ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 
 #EXTINF:-1 ,ТНТ4 HD
@@ -24,20 +24,20 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Детские",FAN HD
+#EXTINF:-1,FAN HD
 http://193.33.240.8:8080/fan/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="1844" tvg-shift=1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
 
-#EXTINF:-1 group-title="Фильмовые",Amedia 1
+#EXTINF:-1,Amedia 1
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Фильмовые",Amedia 2
+#EXTINF:-1,Amedia 2
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
+#EXTINF:-1,Amedia Premium HD
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 
 #EXTINF:-1 tvg-id="AmediaHit.ru",Amedia Hit (1080p) [Geo-blocked]
@@ -70,28 +70,28 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="KINO+",Кинопоказ
+#EXTINF:-1,Кинопоказ
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 
-#EXTINF:-1 group-title="KINO+",Премиальное HD
+#EXTINF:-1,Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 
-#EXTINF:-1 group-title="KINO+",Остросюжетное HD
+#EXTINF:-1,Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 
-#EXTINF:-1 group-title="KINO+",BACKUS TV HD
+#EXTINF:-1,BACKUS TV HD
 http://stream.backustv.ru/live/btv/index.m3u8
 
-#EXTINF:-1 group-title="KINO+",BACKUSTV Страшное HD r
+#EXTINF:-1,BACKUSTV Страшное HD r
 http://stream.backustv.ru/live/btv2/index.m3u8
 
-#EXTINF:-1 group-title="KINO+",LAVA HD
+#EXTINF:-1,LAVA HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 
-#EXTINF:-1 group-title="Фильмовые",Киномикс HD
+#EXTINF:-1,Киномикс HD
 http://80.251.49.103:8002/play/136
 
-#EXTINF:-1 group-title="Фильмовые",Киносемья
+#EXTINF:-1,Киносемья
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU",Первый Музыкальный RU HD

@@ -52,8 +52,8 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2824.png",VIP Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VIPMegahit.ru",VIP Megahit Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
@@ -61,8 +61,8 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3302.png",TV 1000 HD
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1000East.ru",TV1000 Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD (www.iptvm3u.ru)
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
@@ -70,8 +70,8 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1,Кинопоказ
-http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1,Кинопоказ HD
+http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
 
 #EXTINF:-1,Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
@@ -79,26 +79,56 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 #EXTINF:-1,Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 
+#EXTINF:-1,Блокбастер HD
+http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+
 #EXTINF:-1,BACKUS TV HD
 http://stream.backustv.ru/live/btv/index.m3u8
 
 #EXTINF:-1,BACKUSTV Страшное HD r
 http://stream.backustv.ru/live/btv2/index.m3u8
 
+#EXTINF:-1,Кинохит HD
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+
 #EXTINF:-1,LAVA HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 
-#EXTINF:-1,Киномикс HD
-http://80.251.49.103:8002/play/136
+#EXTINF:-1,КИНОМИКС
+http://93.125.34.51:30002/Kinomix/index.m3u8
 
 #EXTINF:-1,Киносемья
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+
+#EXTINF:-1,Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+
+#EXTINF:-1,.black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+
+#EXTINF:-1 ,Старт
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD
+http://94.158.54.107/95/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Матч! Футбол 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 Матч! Футбол 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2004.png",Viasat Sport HD
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 ,Viasat Sport
+http://109.197.192.121:8080/viasats/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8

@@ -106,9 +106,6 @@ https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1,.black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 
-#EXTINF:-1 ,Кинопремьера FHD
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-
 #EXTINF:-1 ,Старт
 http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
 
@@ -120,9 +117,6 @@ http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2004.png",Viasat Sport HD
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1 ,Viasat Sport
-http://109.197.192.121:8080/viasats/index.m3u8
 
 #EXTINF:-1 tvg-name="1764" tvg-shift=1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer

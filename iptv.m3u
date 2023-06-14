@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1,Первый канал 
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=7200
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-0
 
 #EXTINF:-1 tvg-id="RENTV.ru",РЕН ТВ (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
@@ -92,7 +92,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
 
 #EXTINF:-1,КИНОМИКС
-http://93.125.34.51:30002/Kinomix/index.m3u8?version=2&offset=-2
+http://93.125.34.51:30002/Kinomix/index.m3u8?version=2&offset=7200
 
 #EXTINF:-1,Киносемья
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8

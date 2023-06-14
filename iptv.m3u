@@ -91,8 +91,8 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1,Кинохит
 http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="2",КИНОМИКС
-http://93.125.34.51:30002/Kinomix/index.m3u8
+#EXTINF:-1,КИНОМИКС
+http://93.125.34.51:30002/Kinomix/index.m3u8?version=2&offset=-2
 
 #EXTINF:-1,Киносемья
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8

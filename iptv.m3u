@@ -89,7 +89,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 
 #EXTINF:-1,Кинохит
-http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Киномикс
 http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8

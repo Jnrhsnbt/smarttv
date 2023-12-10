@@ -2,9 +2,6 @@
 #EXTINF:-1,Первый канал 
 http:\\live-okkotv.cdnvideo.ru\okkotv\1tv.smil\tracks-v1a1\mono.m3u8
 
-#EXTINF:-1 ,Россия HD
-https:\\okkotv-live.cdnvideo.ru\channel\Russia1HD\1080p.m3u8
-
 #EXTINF:-1 ,ТВ3 HD
 https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 
@@ -115,7 +112,7 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2004.png",Viasat Sport HD
-http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+https:\\okkotv-live.cdnvideo.ru\channel\Viasat_Sport_HD.m3u8
 
 #EXTINF:-1,Диалоги о Рыбалке FHD
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
@@ -128,8 +125,8 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Viasat Explore
-https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+https:\\okkotv-live.cdnvideo.ru\channel\Viasat_Explore_HD.m3u8
 
 #EXTINF:-1,Viasat History HD
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+https:\\okkotv-live.cdnvideo.ru\channel\Viasat_History_ad_HD.m3u8
 

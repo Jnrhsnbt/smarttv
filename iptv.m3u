@@ -1,28 +1,27 @@
 #EXTM3U 
 #EXTINF:-1,Первый канал 
-#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-0
+http://cdn-lb.iptv2022.com/p/dCeiU64_j2U7ItFsxyz9Qw,1679162008/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 ,Россия HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+
+#EXTINF:-1 ,ТВ3 HD
+https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru",РЕН ТВ (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 
+#EXTINF:-1,ДОМ КИНО
+http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
+
 #EXTINF:-1,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
-
-#EXTINF:-1 tvg-id="CTCKids.ru",СТС Kids (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-
-#EXTINF:-1 tvg-id="CTCLove.ru",СТС Love (480p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 
 #EXTINF:-1,ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 
 #EXTINF:-1 ,ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-
-#EXTINF:-1 ,Еврокино
-http://91.220.135.165:81/30/index.m3u8
 
 #EXTINF:-1,FAN HD
 http://94.230.240.17:8080/fan/index.m3u8
@@ -46,35 +45,32 @@ http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 tvg-id="AmediaHit.ru",Amedia Hit (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 
-##EXTINF:-1 ,Fox_Life_HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
-
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 
 #EXTINF:-1 ,VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+http://moobl.ru/hls/Viju_plus_Premiere_hd.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 
 #EXTINF:-1 ,TV1000_HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD (www.iptvm3u.ru)
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+http://moobl.ru/hls/Viju_TV1000_Action_HD.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
-https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+http://moobl.ru/hls/Viju_TV1000_russkoe_kino_HD.m3u8
 
 #EXTINF:-1,Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 
 #EXTINF:-1,Остросюжетное HD
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+http:\\213.172.73.133:8081\nimble_live\9009_Остросюжетное_HD\playlist.m3u8
 
 #EXTINF:-1,Блокбастер HD
 http://cdn-lb.iptv2022.com/p/JzMExaTq-o3IVLv5zlInUw,1697749211/streaming/blokbaster/324/1/index.m3u8

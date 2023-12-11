@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1,Первый канал 
-http:\\live-okkotv.cdnvideo.ru\okkotv\1tv.smil\tracks-v1a1\mono.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=3#parser
 
 #EXTINF:-1 ,ТВ3 HD
 https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8

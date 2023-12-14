@@ -105,17 +105,6 @@ http://moobl.ru/hls/Hollywood.m3u8
 #EXTINF:-1,Cinema
 http://moobl.ru/hls/Cinema.m3u8
 
-#EXTINF:-1,Матч! Футбол 1 HD
-http://cdn-lb.iptv2022.com/p/uiTz7dggh6rQgy9-N1uVQw,1701896418/streaming/footbal1hd/324/1/index.m3u8
-
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 
-#EXTINF:-1 ,Viasat Sport HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
-
-#EXTINF:-1,Eurosport 1 HD
-http://moobl.ru/hls/Eurosport_1_hd.m3u8
-
-#EXTINF:-1 ,Eurosport 2 HD
-http://moobl.ru/hls/Eurosport_2_hd.m3u8

@@ -9,7 +9,7 @@ https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 
 #EXTINF:-1,СТС HD
-http:\\moobl.ru\hls\STS_hd.m3u8
+http:\\moobl.ru\hls\STS.m3u8
 
 #EXTINF:-1,ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8

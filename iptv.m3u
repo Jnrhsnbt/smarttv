@@ -1,4 +1,7 @@
 #EXTM3U 
+#EXTINF:-,Россия HD
+http://moobl.ru/hls/Russia_1_hd.m3u8
+
 #EXTINF:-1 ,РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 

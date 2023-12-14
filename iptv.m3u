@@ -3,7 +3,7 @@
 http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru",РЕН ТВ (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+https:\\livetv.mylifeisgood.net.ru\channels\rentv.m3u8
 
 #EXTINF:-1,ДОМ КИНО
 http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
@@ -97,7 +97,7 @@ http://moobl.ru/hls/Illyuzion_plus.m3u8
 http://moobl.ru/hls/Hollywood.m3u8
 
 #EXTINF:-1,Матч! Футбол 1 HD
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+http://cdn-lb.iptv2022.com/p/uiTz7dggh6rQgy9-N1uVQw,1701896418/streaming/footbal1hd/324/1/index.m3u8
 
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8

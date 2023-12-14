@@ -12,7 +12,7 @@ http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 http:\\moobl.ru\hls\STS.m3u8
 
 #EXTINF:-1,ТНТ HD
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+https:\\bl.uma.media\live\317850\HLS\4614144_3\2\1\playlist.m3u8
 
 #EXTINF:-1 ,ТНТ4 HD
 https:\\bl.uma.media\live\317849\HLS\4614144_3\2\1\playlist.m3u8

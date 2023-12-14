@@ -49,16 +49,16 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
 
 #EXTINF:-1 ,TV1000_HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD (www.iptvm3u.ru)
-http://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
-http://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
 
 #EXTINF:-1,Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
@@ -89,9 +89,6 @@ http://moobl.ru/hls/Kinopremyera_hd.m3u8
 
 #EXTINF:-1,Киносемья
 http://moobl.ru/hls/Kinosemya.m3u8
-
-#EXTINF:-1,Киносат
-http://cdn-lb.iptv2022.com/p/WSMYqwQGeajePMwNLyWwmQ,1697749212/streaming/kinosat/324/1/index.m3u8
 
 #EXTINF:-1,Мужское Кино
 http://moobl.ru/hls/Muzhskoe_kino.m3u8

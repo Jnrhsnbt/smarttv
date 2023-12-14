@@ -17,9 +17,6 @@ https:\\bl.uma.media\live\317850\HLS\4614144_3\2\1\playlist.m3u8
 #EXTINF:-1 ,ТНТ4 HD
 https:\\bl.uma.media\live\317849\HLS\4614144_3\2\1\playlist.m3u8
 
-#EXTINF:-1,Fox HD
-http://moobl.ru/hls/Fox_HD.m3u8
-
 #EXTINF:-1,FAN HD
 http:\\94.230.240.17:80\fan\index.m3u8
 
@@ -42,14 +39,17 @@ http:\\moobl.ru\hls\Amedia_Premium_hd.m3u8
 #EXTINF:-1,Amedia Hit
 http://moobl.ru/hls/Amedia_hit.m3u8
 
+#EXTINF:-1, Viju+ Comedy HD
+https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
+
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 
 #EXTINF:-1 ,VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
-http://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
 https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8

@@ -102,6 +102,9 @@ http://moobl.ru/hls/Illyuzion_plus.m3u8
 #EXTINF:-1 ,Hollywood
 http://moobl.ru/hls/Hollywood.m3u8
 
+#EXTINF:-1,Cinema
+http://moobl.ru/hls/Cinema.m3u8
+
 #EXTINF:-1,Матч! Футбол 1 HD
 http://cdn-lb.iptv2022.com/p/uiTz7dggh6rQgy9-N1uVQw,1701896418/streaming/footbal1hd/324/1/index.m3u8
 

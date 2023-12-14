@@ -3,13 +3,13 @@
 http://moobl.ru/hls/Russia_1_hd.m3u8
 
 #EXTINF:-1 ,РЕН ТВ HD
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
+http:\\moobl.ru\hls\Rentv.m3u8
 
 #EXTINF:-1,ДОМ КИНО
 http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 
 #EXTINF:-1,СТС HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=3#parser
+http:\\moobl.ru\hls\STS.m3u8
 
 #EXTINF:-1,ТНТ HD
 https:\\bl.uma.media\live\317850\HLS\4614144_3\2\1\playlist.m3u8

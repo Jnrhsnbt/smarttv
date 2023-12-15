@@ -39,9 +39,6 @@ http:\\moobl.ru\hls\Amedia_Premium_hd.m3u8
 #EXTINF:-1,Amedia Hit
 http://moobl.ru/hls/Amedia_hit.m3u8
 
-#EXTINF:-1, Viju+ Comedy HD
-https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
-
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 

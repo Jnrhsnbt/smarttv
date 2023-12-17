@@ -28,7 +28,7 @@ http://moobl.ru/hls/Kino_tv_hd.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
 
 #EXTINF:-1,Amedia 1
-http:\\moobl.ru\hls\Amedia_1.m3u8
+http://37.49.225.197:8080/linuxapp2023/THKDLbhZj5XFvf6R/12774
 
 #EXTINF:-1,Amedia 2
 http:\\moobl.ru\hls\Amedia_2.m3u8

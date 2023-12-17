@@ -17,9 +17,6 @@ https:\\bl.uma.media\live\317850\HLS\4614144_3\2\1\playlist.m3u8
 #EXTINF:-1 ,ТНТ4 HD
 https:\\bl.uma.media\live\317849\HLS\4614144_3\2\1\playlist.m3u8
 
-#EXTINF:-1,Звезда HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=3#parser
-
 #EXTINF:-1,FAN HD
 http:\\94.230.240.17:80\fan\index.m3u8
 
@@ -31,31 +28,13 @@ http://moobl.ru/hls/Kino_tv.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
 
 #EXTINF:-1,Amedia 1
-http://37.49.225.197:8080/linuxapp2023/THKDLbhZj5XFvf6R/12774
+http://31.148.48.15:80/A1/index.m3u8?token=test
 
 #EXTINF:-1,Amedia 2
-http:\\moobl.ru\hls\Amedia_2.m3u8
-
-#EXTINF:-1,Amedia Premium HD
-http:\\moobl.ru\hls\Amedia_Premium_hd.m3u8
-
-#EXTINF:-1,Amedia Hit
-http://moobl.ru/hls/Amedia_hit.m3u8
-
-#EXTINF:-1 ,Viju TV1000
-http://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
-
-#EXTINF:-1 ,Viju TV1000 Action
-https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
-
-#EXTINF:-1,Премиальное HD
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-
-#EXTINF:-1,Остросюжетное HD
-http:\\213.172.73.133:8081\nimble_live\9009_Остросюжетное_HD\playlist.m3u8
+http://31.148.48.15/A2/index.m3u8
 
 #EXTINF:-1,Блокбастер HD
-http://cdn-lb.iptv2022.com/p/JzMExaTq-o3IVLv5zlInUw,1697749211/streaming/blokbaster/324/1/index.m3u8
+http://moobl.ru/hls/Blokbaster_hd.m3u8
 
 #EXTINF:-1,Фантастика HD
 http://195.9.195.3:8080/hls/187241.m3u8
@@ -70,7 +49,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://moobl.ru/hls/Kinopokaz.m3u8
 
 #EXTINF:-1,Кинохит
-http:\\moobl.ru\hls\Kinohit.m3u8
+http://moobl.ru/hls/Kinohit_hd.m3u8
 
 #EXTINF:-1,Киномикс
 http://moobl.ru/hls/Kinomix.m3u8
@@ -79,7 +58,7 @@ http://moobl.ru/hls/Kinomix.m3u8
 http://moobl.ru/hls/Kinopremyera_hd.m3u8
 
 #EXTINF:-1,Киносемья
-http://moobl.ru/hls/Kinosemya.m3u8
+http://moobl.ru/hls/Kinosemya_hd.m3u8
 
 #EXTINF:-1,Мужское Кино
 http://moobl.ru/hls/Muzhskoe_kino.m3u8

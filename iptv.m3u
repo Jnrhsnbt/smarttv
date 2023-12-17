@@ -39,26 +39,11 @@ http:\\moobl.ru\hls\Amedia_Premium_hd.m3u8
 #EXTINF:-1,Amedia Hit
 http://moobl.ru/hls/Amedia_hit.m3u8
 
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:-1 ,Viju TV1000
+http://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
 
-#EXTINF:-1 ,VIP Megahit
-https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
-
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
-https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
-
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
-
-#EXTINF:-1 ,TV1000_HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD (www.iptvm3u.ru)
+#EXTINF:-1 ,Viju TV1000 Action
 https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
-
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
 
 #EXTINF:-1,Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
@@ -108,3 +93,5 @@ http://moobl.ru/hls/Cinema.m3u8
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 
+#EXTINF:-1 ,Техно 24
+http://play6.flynettv.com/24tehno

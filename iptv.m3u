@@ -52,7 +52,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://moobl.ru/hls/Kinopokaz.m3u8
 
 #EXTINF:-1,Кинохит
-http://moobl.ru/hls/Kinohit_hd.m3u8
+http://moobl.ru/hls/Kinohit.m3u8
 
 #EXTINF:-1,Киномикс
 http://moobl.ru/hls/Kinomix.m3u8

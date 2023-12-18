@@ -75,6 +75,9 @@ http://moobl.ru/hls/Hollywood.m3u8
 #EXTINF:-1,Cinema
 http://moobl.ru/hls/Cinema.m3u8
 
+#EXTINF:-1 ,Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10286/logo_256_1658736631.png",КиноМеню HD
 http://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomenu/324/1/index.m3u8
 

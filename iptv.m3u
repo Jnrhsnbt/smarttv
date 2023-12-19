@@ -36,9 +36,6 @@ http://31.148.48.15:80/A1/index.m3u8
 #EXTINF:-1,Amedia 2
 http://31.148.48.15/A2/index.m3u8
 
-#EXTINF:-1,Amedia Premium HD
-http://moobl.ru/hls/Amedia_Premium_hd.m3u8
-
 #EXTINF:-1,Фантастика HD
 http://195.9.195.3:8080/hls/187241.m3u8
 

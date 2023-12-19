@@ -39,6 +39,9 @@ http://31.148.48.15:80/A1/index.m3u8?token=test
 #EXTINF:-1,Amedia 2
 http://31.148.48.15/A2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UUjehw9.png",Amedia Premium HD
+http://moobl.ru/hls/Amedia_Premium_hd.m3u8
+
 #EXTINF:-1,Блокбастер HD
 http://moobl.ru/hls/Blokbaster_hd.m3u8
 

@@ -69,7 +69,7 @@ https://tbs01-edge11.itdc.ge/kinopremyerahd/index.m3u8
 #EXTINF:-1,Киносемья
 http://moobl.ru/hls/Kinosemya_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iao7zLZ.png" ,Киносерия
+#EXTINF:-1 ,Киносерия
 http://moobl.ru/hls/Kinoseria.m3u8
 
 #EXTINF:-1,Мужское Кино

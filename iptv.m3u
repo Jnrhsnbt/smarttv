@@ -75,12 +75,6 @@ http://moobl.ru/hls/Muzhskoe_kino_hd.m3u8
 #EXTINF:-1,Иллюзион +
 http://moobl.ru/hls/Illyuzion_plus.m3u8
 
-#EXTINF:-1 ,Hollywood
-http://stream01.vnet.am/ParamountChannel/mono.m3u8
-
-#EXTINF:-1,Cinema
-http://moobl.ru/hls/Cinema.m3u8
-
 #EXTINF:-1 ,Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 

@@ -1,4 +1,7 @@
 #EXTM3U 
+#EXTINF:-1,Первый канал
+http://moobl.ru/hls/1_tv.m3u8
+
 #EXTINF:-1,Россия HD
 http://moobl.ru/hls/Russia_1_hd.m3u8
 

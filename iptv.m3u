@@ -49,7 +49,7 @@ http://moobl.ru/hls/Kinopokaz.m3u8
 http://moobl.ru/hls/Kinohit.m3u8
 
 #EXTINF:-1,Киномикс
-http://moobl.ru/hls/Kinomix_HD.m3u8
+http://moobl.ru/hls/Kinomix.m3u8
 
 #EXTINF:-1,Кинопремьера HD
 https://tbs01-edge11.itdc.ge/kinopremyerahd/index.m3u8

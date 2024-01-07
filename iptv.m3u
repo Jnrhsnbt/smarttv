@@ -42,7 +42,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1,BACKUSTV Страшное HD r
 http://stream.backustv.ru/live/btv2/index.m3u8
 
-#EXTINF:-1 tvg-shift="-2",Кинопоказ
+#EXTINF:-1 tvg-shift="-4",Кинопоказ
 http://moobl.ru/hls/Kinopokaz.m3u8
 
 #EXTINF:-1,Кинохит

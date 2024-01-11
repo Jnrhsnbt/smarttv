@@ -37,7 +37,7 @@ http://31.148.48.15/A2/index.m3u8
 http://195.9.195.3:8080/hls/187241.m3u8
 
 #EXTINF:-1,BACKUS TV HD
-http://stream.backustv.ru/live/btv/index.m3u8
+http://moobl.ru/hls/Backustv.m3u8
 
 #EXTINF:-1,BACKUSTV Страшное HD r
 http://stream.backustv.ru/live/btv2/index.m3u8

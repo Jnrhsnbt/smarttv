@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1,Первый канал
-http://moobl.ru/hls/1_tv.m3u8
+#EXTINF:-1 ,НТВ HD
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 
 #EXTINF:-1 ,РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8

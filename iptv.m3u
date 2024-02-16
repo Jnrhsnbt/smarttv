@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 ,НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=3#parser
 
 #EXTINF:-1 ,РЕН ТВ HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser

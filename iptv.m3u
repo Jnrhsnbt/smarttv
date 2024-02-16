@@ -18,7 +18,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 
 #EXTINF:-1 ,2x2
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8??version=3#parser
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 
 #EXTINF:-1,Кино ТВ
 http://31.148.48.15:80/Kino_TV/index.m3u8?token=test

@@ -60,6 +60,9 @@ https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
 #EXTINF:-1,Киносат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 
+#EXTINF:-1,Kinoman
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Cinema
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 

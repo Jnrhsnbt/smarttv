@@ -54,6 +54,9 @@ https:\\strm.yandex.ru\kal\kinomiks_belarus\kinomiks_belarus0.m3u8
 #EXTINF:-1,Кинопремьера HD
 http://45.159.74.13/Kinopremera/index.m3u8
 
+#EXTINF:-1,Киносемья
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+
 #EXTINF:-1,Иллюзион +
 http://moobl.ru/hls/Illyuzion_plus.m3u8
 

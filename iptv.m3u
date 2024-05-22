@@ -17,9 +17,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 #EXTINF:-1 ,ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 
-#EXTINF:-1 ,2x2
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8??version=3#parser
-
 #EXTINF:-1,Кино ТВ
 http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
 
@@ -64,10 +61,25 @@ http://moobl.ru/hls/Illyuzion_plus.m3u8
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 
 #EXTINF:-1,Cinema
-http://176.74.80.162:8099/Cinema/index.m3u8
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+
+#EXTINF:-1,Hollywood
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+
+#EXTINF:-1,TV 1000
+http://91.205.199.3:80/tv1000/index.m3u8
+
+#EXTINF:-1,TV 1000 Action
+http://91.205.199.3:80/tv1000action/index.m3u8
+
+#EXTINF:-1,Discovery Channel HD
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1,МАТЧ! БОЕЦ
-http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+http://31.148.48.15:80/Match_Boec/index.m3u8
 
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/4614144_4/2/1/playlist.m3u8
+
+#EXTINF:-1,Eurosport HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8

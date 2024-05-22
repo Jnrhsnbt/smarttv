@@ -87,6 +87,18 @@ http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #EXTINF:-1,Discovery Channel HD
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1,National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,viju Explore [720x576]
+http://91.205.199.3/viasatexplorer/index.m3u8
+
+#EXTINF:-1,viju Nature [720x576]
+http://91.205.199.3/viasatnature/index.m3u8
+
+#EXTINF:-1,Авто 24 [720x576]
+http://91.205.199.3/avto24/index.m3u8
+
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
 

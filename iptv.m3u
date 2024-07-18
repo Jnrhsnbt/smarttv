@@ -42,6 +42,13 @@ http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
 #EXTINF:-1,AMEDIA HIT HD
 http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
 
+#EXTINF:-1,FOX
+http://dmi3y-tv.ru/hls/CH_FOX.m3u8
+
+
+#EXTINF:-1,FOX Life
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+
 #EXTINF:-1 tvg-shift="-3",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
 

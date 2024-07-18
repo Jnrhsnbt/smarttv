@@ -8,6 +8,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
 #EXTINF:-1,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 
+#EXTINF:-1,Дом кино ПРЕМИУМ HD
+http://dmi3y-tv.ru/hls/CH_DOMKINOPREMIUMHD.m3u8
+
 #EXTINF:-1,СТС HD
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 
@@ -48,6 +51,9 @@ http://dmi3y-tv.ru/hls/CH_FOX.m3u8
 
 #EXTINF:-1,FOX Life
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+
+#EXTINF:-1,Точка SCI-FI
+http://dmi3y-tv.ru/hls/CH_SCI-FI.m3u8
 
 #EXTINF:-1 tvg-shift="-3",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8

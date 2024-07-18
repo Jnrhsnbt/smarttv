@@ -99,3 +99,6 @@ http://194.143.148.28:8080/MatchHD/mpegts
 
 #EXTINF:-1,Viasat Sport
 http://dmi3y-tv.ru/hls/CH_VIASATSPORT.m3u8
+
+#EXTINF:0 tvg-id="backustv" tvg-shift=+1 tvg-logo="https://backustv.ru/img/ch-1.jpg",BACKUSTV ORIGINAL
+http://stream.backustv.ru/live/btv/index.m3u8

@@ -64,7 +64,7 @@ http://dmi3y-tv.ru/hls/CH_VIPMEGAHIT.m3u8
 http://dmi3y-tv.ru/hls/CH_KINOMAN.m3u8
 
 #EXTINF:-1,Cinema
-https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
 #EXTINF:-1,Hollywood
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8

@@ -26,6 +26,9 @@ http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
 #EXTINF:-1,Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 
+#EXTINF:-1,Кинохит FHD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493279&extension=ts
+
 #EXTINF:-1,TV1000
 http://dmi3y-tv.ru/hls/CH_TV1000.m3u8
 

@@ -118,3 +118,6 @@ http://dmi3y-tv.ru/hls/CH_OHOTAIRYBALKA.m3u8
 #EXTINF:-1,Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 
+#EXTINF:-1,Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+

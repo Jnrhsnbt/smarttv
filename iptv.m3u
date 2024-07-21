@@ -106,5 +106,3 @@ http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1,Viasat Sport
 http://45.93.46.27:8887/8015/video.m3u8?token=2ae38b9f8af84263c126aabe74324c88&did=21764&cid=561&rid=21703&m=1
 
-#EXTINF:-1,Cobra Detektiv HD
-http://158.101.194.132:8888/channel/n73225250/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218

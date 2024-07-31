@@ -29,12 +29,6 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1,Мужское Кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 
-#EXTINF:-1,Остросюжетное HD
-http://45.93.46.27:8887/8184/video.m3u8
-
-#EXTINF:-1,Премиальное FHD
-http://45.93.46.27:8887/8028/video.m3u8
-
 #EXTINF:-1,TV1000
 http://dmi3y-tv.ru/hls/CH_TV1000.m3u8
 

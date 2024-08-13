@@ -90,6 +90,9 @@ https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
 
+#EXTINF:-1 ,Матч!
+http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
+
 #EXTINF:-1,Viasat Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 

@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 ,Россия 1 HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/2961?43e=5.m3u8
 
 #EXTINF:-1 ,Россия 24 Int
 http://player.smotrim.ru/iframe/stream/live_id/64739?43e=5.m3u8

@@ -67,9 +67,6 @@ http://dmi3y-tv.ru/hls/CH_VIPPREMIERE.m3u8
 #EXTINF:-1,VIP Serial HD
 http://91.205.199.3/vipserialhd/index.m3u8
 
-#EXTINF:-1,КИНОМАН
-http://dmi3y-tv.ru/hls/CH_KINOMAN.m3u8
-
 #EXTINF:-1,Cinema
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
@@ -78,9 +75,6 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 ,Иллюзион+ sd
 http://dmi3y-tv.ru/hls/CH_ILLUZIONPLUS.m3u8
-
-#EXTINF:-1,D-TV6
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 
 #EXTINF:-1,Discovery Channel HD
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
@@ -93,9 +87,6 @@ http://91.205.199.3/viasatexplorer/index.m3u8
 
 #EXTINF:-1,viju Nature [720x576]
 http://91.205.199.3/viasatnature/index.m3u8
-
-#EXTINF:-1,Авто 24 [720x576]
-http://91.205.199.3/avto24/index.m3u8
 
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8

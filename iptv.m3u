@@ -3,9 +3,6 @@
 #EXTINF:-1 ,Россия 1 HD (auto)
 http://player.smotrim.ru/iframe/stream/live_id/2961?43e=5.m3u8
 
-#EXTINF:-1 ,НТВ HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=3#parser
-
 #EXTINF:-1 ,РЕН ТВ HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
 
@@ -23,6 +20,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 
 #EXTINF:-1 ,ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
+
+#EXTINF:-1 ,Nickelodeon HD
+http://dmi3y-tv.ru/hls/CH_NICKELODEONHD.m3u8
+
+#EXTINF:-1 ,Nicktoons HD
+http://dmi3y-tv.ru/hls/CH_NICKTOONSHD.m3u8
 
 #EXTINF:-1,Кино ТВ
 http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
@@ -79,14 +82,8 @@ http://91.205.199.3/viasatexplorer/index.m3u8
 #EXTINF:-1,viju Nature [720x576]
 http://91.205.199.3/viasatnature/index.m3u8
 
-#EXTINF:-1,Мужской
-https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
-
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
-
-#EXTINF:-1 ,Матч!
-http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 
 #EXTINF:-1,Viasat Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8

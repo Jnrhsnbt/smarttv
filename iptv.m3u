@@ -47,7 +47,7 @@ http://91.205.199.3:80/tv1000action/index.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
 
 #EXTINF:-1,Amedia 1
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/70/hlsx/pl.m3u8
+http://31.148.48.15/A1/index.m3u8?token=test
 
 #EXTINF:-1,Amedia 2
 http://31.148.48.15/A2/index.m3u8

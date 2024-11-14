@@ -43,7 +43,7 @@ http://stream01.vnet.am/MujskoeKino/index.m3u8
 http://dmi3y-tv.ru/hls/CH_TV1000.m3u8
 
 #EXTINF:-1,TV1000 ACTION
-http://91.205.199.3:80/tv1000action/index.m3u8
+http://dmi3y-tv.ru/hls/CH_TV1000ACTION.m3u8
 
 #EXTINF:-1 tvg-name="1844" tvg-shift=1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer

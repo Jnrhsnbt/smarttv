@@ -6,9 +6,6 @@ http://player.smotrim.ru/iframe/stream/live_id/2961?43e=5.m3u8
 #EXTINF:-1 ,РЕН ТВ HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
 
-#EXTINF:-1 ,РЕН ТВ International
-http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
-
 #EXTINF:-1,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 

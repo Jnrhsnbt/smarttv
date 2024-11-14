@@ -12,9 +12,6 @@ http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1,Дом кино ПРЕМИУМ HD
 http://dmi3y-tv.ru/hls/CH_DOMKINOPREMIUMHD.m3u8
 
-#EXTINF:-1 ,Комедия
-http://dmi3y-tv.ru/hls/CH_KOMEDIA.m3u8
-
 #EXTINF:-1,СТС HD
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 

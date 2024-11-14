@@ -75,6 +75,9 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 ,FAN
 http://dmi3y-tv.ru/hls/CH_FAN.m3u8
 
+#EXTINF:-1 ,VIASAT EXPLORE
+http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
+
 #EXTINF:-1,Discovery Channel HD
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 

@@ -21,6 +21,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 #EXTINF:-1 ,ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 
+#EXTINF:-1 ,VIP SERIAL HD
+http://dmi3y-tv.ru/hls/CH_VIPSERIALHD.m3u8
+
 #EXTINF:-1 ,Nickelodeon HD
 http://dmi3y-tv.ru/hls/CH_NICKELODEONHD.m3u8
 

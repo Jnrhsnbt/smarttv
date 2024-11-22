@@ -69,9 +69,6 @@ http://dmi3y-tv.ru/hls/CH_ILLUZIONPLUS.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноДетектив
 https://v2.catcast.tv/content/41327/index.m3u8
 
-#EXTINF:-1 ,VIASAT EXPLORE
-http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
-
 #EXTINF:-1,Discovery Channel HD
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 

@@ -9,6 +9,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
 #EXTINF:-1 ,Звезда HD
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 
+#EXTINF:-1 ,МИР HD
+http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+
 #EXTINF:-1 ,Кино и сериалы HD (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 

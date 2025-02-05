@@ -75,6 +75,9 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1,Cinema
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
+#EXTINF:-1,Иллюзион+
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
+
 #EXTINF:-1,ФАНТАСТИКА HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 

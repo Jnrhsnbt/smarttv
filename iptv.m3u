@@ -37,22 +37,22 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
 
 #EXTINF:-1 ,Кинохит
-http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 
 #EXTINF:-1 ,Киносемья HD
-http://91.205.199.3:80/kinosemyahd/index.m3u8
+http://193.242.190.6:8099/85/index.m3u8
 
 #EXTINF:-1,Мужское Кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 
 #EXTINF:-1,TV1000
-http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+http://185.50.148.2:7703/TV1000/index.m3u8
 
 #EXTINF:-1,TV1000 ACTION
-http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+http://185.50.148.2:7703/TV1000Action/index.m3u8
 
 #EXTINF:-1,Amedia 1
 http://31.148.48.15/A1/index.m3u8

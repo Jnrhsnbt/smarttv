@@ -85,14 +85,8 @@ http://live.admuspeh.my/8028/video.m3u8?token=test
 #EXTINF:-1,ФАНТАСТИКА HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 ,Сити Эдем - КиноДетектив
-https://v2.catcast.tv/content/41327/index.m3u8
-
 #EXTINF:-1 ,Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
-
-#EXTINF:-1 ,Сити Эдем - КиноКомедия
-https://v2.catcast.tv/content/41331/index.m3u8
 
 #EXTINF:-1,Discovery Channel HD
 http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8

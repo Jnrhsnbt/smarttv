@@ -78,6 +78,9 @@ http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
 #EXTINF:-1,Блокбастер
 http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
 
+#EXTINF:-1,FAN
+http://109.200.130.123:7537/play/a02a
+
 #EXTINF:-1,ФАНТАСТИКА HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 

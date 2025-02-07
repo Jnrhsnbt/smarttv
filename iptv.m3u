@@ -99,12 +99,6 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1,2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 
-#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/Movie/312.png",312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-
 #EXTINF:-1 ,Viju+ Premiere
 http://213.226.137.140:81/tl/l319/mpegts
 

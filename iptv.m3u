@@ -108,9 +108,6 @@ http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
 #EXTINF:-1 ,National Geographic WILD
 http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
 
-#EXTINF:-1 ,Animal Planet HD
-http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
-
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
 

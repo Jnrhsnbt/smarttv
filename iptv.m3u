@@ -72,12 +72,6 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1,Cinema
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
-#EXTINF:-1,Иллюзион+
-http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-
-#EXTINF:-1,Блокбастер
-http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
-
 #EXTINF:-1,FAN
 http://109.200.130.123:7537/play/a02a
 

@@ -114,8 +114,3 @@ http://31.148.48.15:80/Match_Boec/index.m3u8
 #EXTINF:-1,Viasat Sport
 http://dmi3y-tv.ru/hls/CH_VIASATSPORT.m3u8
 
-#EXTINF:-1 ,1HD
-http://91.247.68.229:8000/play/eee/index.m3u8
-
-#EXTINF:-1 ,Bridge Rock
-http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test

@@ -49,10 +49,10 @@ http://178.212.71.253:8000/play/70/index.m3u8
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 
 #EXTINF:-1,TV1000
-http://91.205.199.3/tv1000/index.m3u8
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 
 #EXTINF:-1,TV1000 ACTION
-http://91.205.199.3/tv1000action/index.m3u8
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 
 #EXTINF:-1,Amedia 1
 http://31.148.48.15/A1/index.m3u8

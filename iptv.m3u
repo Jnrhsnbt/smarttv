@@ -53,12 +53,6 @@ http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1,Amedia 2
 http://31.148.48.15/A2/index.m3u8
 
-#EXTINF:-1,AMEDIA PREMIUM HD
-http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
-
-#EXTINF:-1,AMEDIA HIT HD
-http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
-
 #EXTINF:-1 tvg-shift="-3",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
 
@@ -92,18 +86,8 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1,2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 
-#EXTINF:-1 ,.sci-fi
-http://130.193.73.10:8937/play/a02q
-
-#EXTINF:-1 ,.black
-http://109.200.130.123:7537/play/a02s
-
 #EXTINF:-1 ,Приключения HD
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
-
-#EXTINF:-1,Viasat Sport
-http://dmi3y-tv.ru/hls/CH_VIASATSPORT.m3u8
-

@@ -46,6 +46,7 @@ http://178.212.71.253:8000/play/127/index.m3u8
 http://178.212.71.253:8000/play/70/index.m3u8
 
 #EXTINF:-1,Мужское Кино
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 
 #EXTINF:-1,Amedia 1
 http://31.148.48.15/A1/index.m3u8

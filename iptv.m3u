@@ -60,8 +60,8 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1,Cinema
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
-#EXTINF:-1, Cinema Космос TV
-http://178.124.152.238:8088/cinema
+#EXTINF:-1,.sci-fi
+http://130.193.73.10:8937/play/a02q
 
 #EXTINF:-1,FAN
 http://109.200.130.123:7537/play/a02a

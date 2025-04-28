@@ -52,7 +52,7 @@ http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 http://31.130.16.62:4022/udp/239.1.10.9:1234
 
 #EXTINF:-1,Мужское Кино
-http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
 
 #EXTINF:-1,Amedia 1
 http://sc.id-tv.kz/A1.m3u8

@@ -24,9 +24,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 #EXTINF:-1 ,ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 
-#EXTINF:-1 ,Блокбастер HD
-http://31.130.16.62:4022/udp/239.1.12.2:1234
-
 #EXTINF:-1,Кино ТВ
 http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
 

@@ -54,6 +54,9 @@ http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1,Amedia 2
 http://31.148.48.15/A2/index.m3u8
 
+#EXTINF:-1,Amedia Hit HD
+http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-shift="-3",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
 

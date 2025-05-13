@@ -30,6 +30,9 @@ http://130.193.73.10:8937/play/a02s
 #EXTINF:-1 ,Viju TV1000 Action
 http://130.193.73.10:8937/play/a02t
 
+#EXTINF:-1 ,Остросюжетное
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+
 #EXTINF:-1 ,Премиальное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 

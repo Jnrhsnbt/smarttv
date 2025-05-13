@@ -102,3 +102,6 @@ http://31.148.48.15:80/Match_Boec/index.m3u8
 
 #EXTINF:-1,Viju Explore
 http://130.193.73.10:8937/play/a01j
+
+#EXTINF:-1 ,Диалоги о рыбалке
+http://130.193.73.10:8937/play/a04q

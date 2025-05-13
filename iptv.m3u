@@ -24,12 +24,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 #EXTINF:-1 ,ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 
-#EXTINF:-1 ,Viju TV1000
-http://130.193.73.10:8937/play/a02s
-
-#EXTINF:-1 ,Viju TV1000 Action
-http://130.193.73.10:8937/play/a02t
-
 #EXTINF:-1 ,Остросюжетное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
 
@@ -66,9 +60,6 @@ http://31.130.16.62:4022/udp/239.1.10.9:1234
 #EXTINF:-1,Мужское Кино
 http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
 
-#EXTINF:-1,Amedia 1
-http://sc.id-tv.kz/A1.m3u8
-
 #EXTINF:-1,Amedia 2
 http://31.148.48.15/A2/index.m3u8
 
@@ -102,12 +93,5 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://109.200.130.123:7537/play/a02m
 
-
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
-
-#EXTINF:-1,Viju Explore
-http://130.193.73.10:8937/play/a01j
-
-#EXTINF:-1 ,Диалоги о рыбалке
-http://130.193.73.10:8937/play/a04q

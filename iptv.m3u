@@ -90,3 +90,6 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
+
+#EXTINF:-1,Viju Explore
+http://130.193.73.10:8937/play/a01j

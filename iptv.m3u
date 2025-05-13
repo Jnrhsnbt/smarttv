@@ -33,6 +33,9 @@ http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,Премиальное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 
+#EXTINF:-1 ,Блокбастер
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
+
 #EXTINF:-1,Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 

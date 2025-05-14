@@ -24,6 +24,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 #EXTINF:-1 ,ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 
+#EXTINF:-1 ,2x2
+http://130.193.73.10:8937/play/a01b
+
+
 #EXTINF:-1 ,Остросюжетное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
 

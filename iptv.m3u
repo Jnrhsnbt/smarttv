@@ -93,5 +93,8 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://109.200.130.123:7537/play/a02m
 
+#EXTINF:-1 ,FX Life HD
+http://188.237.47.212:6008
+
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8

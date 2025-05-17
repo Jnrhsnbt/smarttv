@@ -24,13 +24,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
 #EXTINF:-1 ,ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
 
-#EXTINF:-1 ,2x2
-http://130.193.73.10:8937/play/a01b
-
-#EXTINF:-1 ,Суббота!
-http://195.26.83.96:7013/play/a00e/index.m3u8
-
-
 #EXTINF:-1 ,Остросюжетное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
 
@@ -97,20 +90,11 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1,2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 
-#EXTINF:-1 ,В гостях у сказки
-http://109.200.130.123:7537/play/a02m
-
-#EXTINF:-1 ,FX Life HD
-http://188.237.47.212:6008
-
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
 
 #EXTINF:-1 ,Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-
-#EXTINF:-1 ,Viju Explore
-http://109.200.130.123:7537/play/a027
 
 #EXTINF:-1 ,Первый Музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8

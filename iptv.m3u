@@ -73,7 +73,7 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://130.193.73.10:8937/play/a02q
 
 #EXTINF:-1,FAN
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
 #EXTINF:-1,ФАНТАСТИКА HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1

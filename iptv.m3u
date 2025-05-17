@@ -48,12 +48,6 @@ http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 
-#EXTINF:-1,Кинопоказ
-http://31.130.16.62:4022/udp/239.1.10.9:1234
-
-#EXTINF:-1,Мужское Кино
-http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
-
 #EXTINF:-1,Amedia 2
 http://31.148.48.15/A2/index.m3u8
 

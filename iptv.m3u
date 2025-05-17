@@ -36,12 +36,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
 #EXTINF:-1,Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 , Hollywood
-http://109.200.130.123:7537/play/a02g
-
-#EXTINF:-1 , Иллюзион+
-http://31.173.165.29:8000/play/a04l/index.m3u8
-
 #EXTINF:-1 ,Кинопремьера
 http://178.212.71.253:8000/play/125/index.m3u8
 

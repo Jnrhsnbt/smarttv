@@ -61,7 +61,7 @@ http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
 http://catchup.videoline.ru/cinema/index.m3u8
 
 #EXTINF:-1,.sci-fi
-http://130.193.73.10:8937/play/a02q
+http://hls.goodgame.ru:8080/hls/204708.m3u8
 
 #EXTINF:-1,FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER

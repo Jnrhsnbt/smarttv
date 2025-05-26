@@ -78,6 +78,12 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1,2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 
+#EXTINF:-1 ,Viju TV1000
+http://109.248.236.51/viju_tv1000/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Viju TV1000 Action
+http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8
 

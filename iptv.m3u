@@ -33,6 +33,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 #EXTINF:-1 ,Блокбастер
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
 
+#EXTINF:-1 ,Мужское кино
+http://109.248.236.51/muzhskoe_kino/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Кинопоказ
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
 
